@@ -52,11 +52,11 @@ if($status==false) {
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link rel="stylesheet" href="../css/syle.css">
-    <title>ブックマーク課題</title>
+    <title>ブックマーク</title>
 </head>
 <body>
 <nav class="teal lighten-3 z-depth-4">
-<h1>ブックマーク課題</h1> 
+<h1>ブックマーク</h1> 
 </nav>
 
 <div class="row ">
